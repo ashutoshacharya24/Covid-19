@@ -1,0 +1,26 @@
+.header {
+  text-align: center;
+  padding: 20px;
+  color: #edeef7;
+  font-style: italic;
+  background-color: #8f4068;
+}
+
+.form {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.input {
+  width: 300px;
+}
+
+.search {
+  margin-left: 20px;
+}
+
+.button-center {
+  margin-left: 550px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
